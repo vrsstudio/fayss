@@ -8,8 +8,6 @@
  "url": "https://www.google.ru/"
     } ,
     
-
-
     {
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
@@ -26,8 +24,6 @@
         "url": "https://www.google.ru/"
     },
 
-
-
 {
         
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
@@ -35,10 +31,7 @@
         "percent": "0%",
         "url": "https://www.google.ru/"
     },
-
-
-
-       
+   
     {
         
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivgo.png",
@@ -47,10 +40,6 @@
         "url": "https://www.google.ru/"
     },
 
-
-
-
- 
     {
        
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
@@ -60,8 +49,6 @@
         "url": "https://www.google.ru/"
     },
 
-
-
     {
        
          "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/robotmoney.png",
@@ -69,12 +56,6 @@
            "percent": "1%",
         "url": "https://trkleads.ru/click/3e05999823bdd9e1e92a9f21ea1c6185?aff_sub1=kivas"
     },
-
-
-
-
-
-     
 
  {
       
@@ -84,16 +65,6 @@
         "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub1=kivas"
     },
 
-
-
-
-
-   
-   
-    
-    
-    
-   
     {
      
            "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/otlichnye.png",
@@ -101,8 +72,6 @@
             "percent": "0%",
         "url": "https://trkleads.ru/click/e59312a43dd540a65c344ff36a0180e8?aff_sub1=kivas"
     },
-
-
 
     {
      
@@ -112,11 +81,6 @@
         "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=kivas"
     },
 
-
-
-
-
- 
     {
         
          "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffs.png",
@@ -124,10 +88,7 @@
         "percent": "1%",
         "url": "https://trkleads.ru/click/d5c99c22c28ca9bf2dbfc890836a1bce?aff_sub1=kivas"
     },
-
-
-  
-     
+ 
     {
        
            "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
@@ -206,10 +167,5 @@
         "percent": "1%",
         "url": "https://trkleads.ru/click/a034b5f606c4f6b439369ec296109848?aff_sub1=kivas"
     }
-     
-     
-       
-    
-    
-    
+        
 ]

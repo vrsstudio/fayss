@@ -1,28 +1,5 @@
 [
 
- {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
-    "name": "MoneyMan",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 80 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=trukarta",
-    "email": "info@moneyman.ru",
-    "address": "Онлайн-сервис MoneyMan",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 5 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
 
 {
     "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
@@ -47,6 +24,113 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
+
+
+
+
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=trukarta",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
+    "name": "Fin5",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=trukarta&erid=2W5zFHMCfMi",
+    "email": "info@zaimer.ru",
+    "address": "Онлайн-сервис Займер",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+    "name": "Быстроденьги",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0,1%",
+    "sum_one": "до 15 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=trukarta",
+    "email": "info@bistrodengi.ru",
+    "address": "Онлайн-сервис Быстроденьги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+ {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+    "name": "MoneyMan",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 80 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=trukarta",
+    "email": "info@moneyman.ru",
+    "address": "Онлайн-сервис MoneyMan",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 5 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
 
 
 
@@ -103,55 +187,6 @@
 
 
 
- {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
-    "name": "Logos Finance",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=trukarta",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",
-    "name": "Fin5",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=trukarta&erid=2W5zFHMCfMi",
-    "email": "info@zaimer.ru",
-    "address": "Онлайн-сервис Займер",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
 
   
 
@@ -208,29 +243,6 @@
 
 
 
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-    "name": "Быстроденьги",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 15 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=trukarta",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
 
 
 

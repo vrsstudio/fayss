@@ -1,16 +1,27 @@
-[{
-    "logo": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-    "company_name": "Kredyt do 200 000 ",
-    "loan_amount":"ot 21 000 do 70 000 zł",
-   "url": "https://www.cbr.ru/finorg/"
-  }
-,
-
+[
 {
-    "logo": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/letocredit.png",
+    "company_name": "Gotówka bez zbędnych formalności",
+    "loan_amount":"ot 450 do 20 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rk16a2842415383b"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/credy.lp.png",
+    "company_name": "Szybki kredyt online",
+    "loan_amount":"ot 300 do 10 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1qb5691b0305628ae"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/creditiopl.png",
     "company_name": "Kredyt na każdą potrzebę",
-    "loan_amount":"ot 31 000 do 70 000 zł",
-   "url": "https://www.cbr.ru/finorg/"
+    "loan_amount":"ot 1 000 do 100 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1rmv69300053b2c20"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/crezu.png",
+    "company_name": "Wygodny kredyt przez internet",
+    "loan_amount":"ot 300 do 10 000 zł",
+   "url": "https://tds.pdl-profit.com/h/1qfe691b0308b0fa8"
   }
   
 ]

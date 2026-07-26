@@ -77,6 +77,60 @@
     "kruglosutochno": true
   },
 
+{
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
+    "name": "JoyMoney",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 100 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=trukarta",
+    "email": "support@joymoney.ru",
+    "address": "Онлайн-сервис JoyMoney",
+    "work_time": "24/7 онлайн, поддержка 09:00–20:00",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/equa.png",
+    "name": "Эквазайм",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0,1%",
+    "sum_one": "до 50 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/fa557721643d18b388d44ab5faae6e7f?aff_sub1=trukarta&erid=2W5zFFv9Kmr",
+    "email": "info@bistrodengi.ru",
+    "address": "Онлайн-сервис Быстроденьги",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+
+
 
 {
     "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/footer.png",
@@ -152,29 +206,6 @@
   },
 
 
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/equa.png",
-    "name": "Эквазайм",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/fa557721643d18b388d44ab5faae6e7f?aff_sub1=trukarta&erid=2W5zFFv9Kmr",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
 
 
 
@@ -203,30 +234,6 @@
   },
  
 
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",
-    "name": "boostra",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/ab84af0b6a25da159e6db8927cd34a51?aff_sub1=trukarta&erid=2W5zFHyoEoJ",
-    "email": "info@zaimer.ru",
-    "address": "Онлайн-сервис Займер",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-  
 
 
 
@@ -239,29 +246,6 @@
 
 
 
-{
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-    "name": "Быстроденьги",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 15 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/f776afdb73a56fcc453938708a0c0f11?aff_sub1=trukarta",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
 
 
 
@@ -308,156 +292,6 @@
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
     "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/hurma.png",
-    "name": "Hurmacredit",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/060776e824d47e4e366962ea2c643758?aff_sub1=trukarta&erid=2W5zFKAXUpH",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/davaka.png",
-    "name": "Давака",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/cf389a83f3ca93ac1d01609dfe0ad27c?aff_sub1=trukarta&erid=2W5zFHiwFv9",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/vozmika.png",
-    "name": "Возьмика",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0,1%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/9b4aec037e420e4844d236dcd53f86f1?aff_sub1=trukarta&erid=get_it_soon",
-    "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
-    "name": "JoyMoney",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 100 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=trukarta",
-    "email": "support@joymoney.ru",
-    "address": "Онлайн-сервис JoyMoney",
-    "work_time": "24/7 онлайн, поддержка 09:00–20:00",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/srochnodeng.jpg",
-    "name": "СрочноДеньги",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/69163ac50e333c942c51d5ca9400b7b6?aff_sub1=trukarta&erid=2W5zFJkUBEY",
-    "email": "support@srochnodengi.ru",
-    "address": "Онлайн-сервис СрочноДеньги",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
-    "name": "Lime-Zaim",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 100 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub1=trukarta",
-    "email": "support@lime-zaim.ru",
-    "address": "Онлайн-сервис Lime",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
     "dokuments": "паспорт РФ",
     "sposob": "онлайн, на карту",
     "nalichnie": false,

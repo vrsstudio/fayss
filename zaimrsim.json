@@ -7,7 +7,7 @@
     "rating": 5,
     "age": "18-70",
     "percent": "0%",
-    "sum_one": "до 100 000 ₽",
+    "sum_one": "до 120 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
@@ -53,68 +53,19 @@
     "kruglosutochno": true
   },
 
- {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
-    "name": "Logos Finance",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=trukarta",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
 {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
-    "name": "JoyMoney",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 100 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=trukarta",
-    "email": "support@joymoney.ru",
-    "address": "Онлайн-сервис JoyMoney",
-    "work_time": "24/7 онлайн, поддержка 09:00–20:00",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/equa.png",
-    "name": "Эквазайм",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
+    "name": "Займер",
     "rating": 5,
     "age": "18-70",
     "percent": "0,1%",
-    "sum_one": "до 50 000 ₽",
+    "sum_one": "до 30 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://pxl.leads.su/click/fa557721643d18b388d44ab5faae6e7f?aff_sub1=trukarta&erid=2W5zFFv9Kmr",
+    "url": "https://trackfox.ru/click/542495b89c808bf6423f2d1c74a910a0?aff_sub1=trukarta",
     "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
+    "address": "Онлайн-сервис Займер",
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
     "scorost": "до 15 минут",
@@ -125,129 +76,6 @@
     "zafiveminut": true,
     "kruglosutochno": true
   },
-
-
-
-
-
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/footer.png",
-    "name": "Logos Finance",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 50 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/efc4007b9d4d787af2dcc592eb2fc8e8?aff_sub1=trukarta&erid=2W5zFJEWxZF",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ecoz.png",
-    "name": "Logos Finance",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/8ba02ba369af93afd5225491bc7c5848?aff_sub1=trukarta&erid=2W5zFJYUxoJ",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-{
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",
-    "name": "Logos Finance",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=trukarta&erid=2W5zFJ1PVgm",
-    "email": "support@logos.ru",
-    "address": "Онлайн-сервис Logos Finance",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 15 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-
-
-
-
-
-  {
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
-    "name": "Екапуста",
-    "rating": 5,
-    "age": "18-70",
-    "percent": "0%",
-    "sum_one": "до 30 000 ₽",
-    "sum_min": "от 500 ₽",
-    "days_info": "90–360 дней",
-    "term_to": "360",
-    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=trukarta",
-    "email": "info@ekapusta.ru",
-    "address": "Онлайн-сервис Екапуста",
-    "work_time": "24/7",
-    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
-    "scorost": "до 10 минут",
-    "dokuments": "паспорт РФ",
-    "sposob": "онлайн, на карту",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 {
@@ -275,23 +103,75 @@
   },
 
 
-
 {
-    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/zapress.png",
-    "name": "Займ Экспресс",
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
+    "name": "Турбозайм",
     "rating": 5,
     "age": "18-70",
     "percent": "0,1%",
-    "sum_one": "до 15 000 ₽",
+    "sum_one": "до 50 000 ₽",
     "sum_min": "от 500 ₽",
     "days_info": "90–360 дней",
     "term_to": "360",
-    "url": "https://pxl.leads.su/click/d460353ba4b6f872b10678a199ad57c3?aff_sub1=trukarta&erid=2W5zFGQLUG8",
+    "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub1=trukarta",
     "email": "info@bistrodengi.ru",
-    "address": "Онлайн-сервис Быстроденьги",
+    "address": "Онлайн-сервис Турбозайм",
     "work_time": "24/7",
     "license": "ИК № 176 (НФКЦ) от 14.07.2016",
     "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+
+{
+    "image_url": "https://raw.githubusercontent.com/vipstatustoyou/images/refs/heads/main/ykky.png",
+    "name": "Logos Finance",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://pxl.leads.su/click/54abdf09748532d49533bb376ac2dfb6?aff_sub1=trukarta&erid=2W5zFJ1PVgm",
+    "email": "support@logos.ru",
+    "address": "Онлайн-сервис Logos Finance",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 15 минут",
+    "dokuments": "паспорт РФ",
+    "sposob": "онлайн, на карту",
+    "nalichnie": false,
+    "nakartu": true,
+    "zafiveminut": true,
+    "kruglosutochno": true
+  },
+
+
+
+  {
+    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
+    "name": "Екапуста",
+    "rating": 5,
+    "age": "18-70",
+    "percent": "0%",
+    "sum_one": "до 30 000 ₽",
+    "sum_min": "от 500 ₽",
+    "days_info": "90–360 дней",
+    "term_to": "360",
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=trukarta",
+    "email": "info@ekapusta.ru",
+    "address": "Онлайн-сервис Екапуста",
+    "work_time": "24/7",
+    "license": "ИК № 176 (НФКЦ) от 14.07.2016",
+    "scorost": "до 10 минут",
     "dokuments": "паспорт РФ",
     "sposob": "онлайн, на карту",
     "nalichnie": false,
